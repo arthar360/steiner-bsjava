@@ -1,3 +1,3 @@
 # bsjava
 
-This is a cool project
+This is a cool college project
